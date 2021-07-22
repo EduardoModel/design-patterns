@@ -8,8 +8,8 @@ Following the definition of the book [Learning JavaScript Design Patterns from A
 In a nutshell, these patterns helps to guide the creation of objects depending of the current scenario;
 
 Examples of Creational Patterns are:
-- [**Constructor**](/constructor)
-- [**Factory**](/factory)
-- [**Abstract Prototype**](/abstract)
-- [**Singleton**](/singleton)
-- [**Builder**](/builder)
+- [**Constructor**](/creational/constructor)
+- [**Factory**](/creational//factory)
+- [**Abstract Prototype**](/creational//abstract)
+- [**Singleton**](/creational//singleton)
+- [**Builder**](/creational//builder)
