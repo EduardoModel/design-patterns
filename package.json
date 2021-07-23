@@ -5,7 +5,8 @@
   "author": "EduardoModel <edu_model@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "creational": "node creational/constructor/example.js "
+    "creational": "node creational/constructor/example.js",
+    "module": "node creational/module/example.js"
   },
   "devDependencies": {
     "eslint": "^7.13.0",
