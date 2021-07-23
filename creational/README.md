@@ -9,6 +9,7 @@ In a nutshell, these patterns helps to guide the creation of objects depending o
 
 Examples of Creational Patterns are:
 - [**Constructor**](/creational/constructor)
+- [**Module**](/creational/module)
 - [**Factory**](/creational//factory)
 - [**Abstract Prototype**](/creational//abstract)
 - [**Singleton**](/creational//singleton)
