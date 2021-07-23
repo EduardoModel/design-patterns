@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "creational": "node creational/constructor/example.js",
-    "module": "node creational/module/example.js"
+    "module": "node creational/module/example.js",
+    "singleton": "node creational/singleton/example.js"
   },
   "devDependencies": {
     "eslint": "^7.13.0",
