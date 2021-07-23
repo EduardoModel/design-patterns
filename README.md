@@ -20,3 +20,6 @@ These patterns help to combine the different objects and classes inside a bigger
 
 [**Behavioral Patterns**](/behavioral):
 At least but not less important are the behavioral patterns. They help the different parts of a program to communicate with themselves more efficiently and to assign responsibility/tasks to the parts.
+
+##### Obs.:
+It is recomended to have [Node.js](https://nodejs.org/en/) installed in your machine to be able to run the examples;

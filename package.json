@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "EduardoModel <edu_model@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "creational": "node creational/constructor/example.js "
+  },
   "devDependencies": {
     "eslint": "^7.13.0",
     "eslint-config-airbnb-base": "^14.2.1",
@@ -12,5 +15,8 @@
     "eslint-plugin-prettier": "^3.1.4",
     "prettier": "^2.1.2",
     "sucrase": "^3.16.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
   }
 }
