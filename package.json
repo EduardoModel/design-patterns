@@ -7,7 +7,8 @@
   "scripts": {
     "creational": "node creational/constructor/example.js",
     "module": "node creational/module/example.js",
-    "singleton": "node creational/singleton/example.js"
+    "singleton": "node creational/singleton/example.js",
+    "factory": "node creational/factory/example.js"
   },
   "devDependencies": {
     "eslint": "^7.13.0",
