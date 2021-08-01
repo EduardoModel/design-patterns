@@ -12,5 +12,5 @@ Examples of Creational Patterns are:
 - [**Module**](/creational/module)
 - [**Singleton**](/creational/singleton)
 - [**Factory**](/creational/factory)
-- [**Abstract Prototype**](/creational/abstract)
+- [**Prototype**](/creational/abstract)
 - [**Builder**](/creational/builder)

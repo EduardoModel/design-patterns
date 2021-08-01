@@ -8,7 +8,9 @@
     "creational": "node creational/constructor/example.js",
     "module": "node creational/module/example.js",
     "singleton": "node creational/singleton/example.js",
-    "factory": "node creational/factory/example.js"
+    "factory": "node creational/factory/example.js",
+    "prototype": "node creational/prototype/example.js",
+    "builder": "node creational/builder/example.js"
   },
   "devDependencies": {
     "eslint": "^7.13.0",

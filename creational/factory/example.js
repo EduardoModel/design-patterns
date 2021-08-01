@@ -1,5 +1,4 @@
 // Example for the Factory Pattern
-
 function Car({ doors, type, color, fuelType, currentState }) {
   this.doors = doors ?? 4;
   this.type = type ?? 'Sedan';
