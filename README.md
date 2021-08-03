@@ -1,4 +1,4 @@
-# Design Patterns - A reduced and to fast to consult repository
+# Design Patterns - A reduced and fast to consult repository
 **Design Patterns** are solutions to common problems in software design.
 
 Following the description from the book [Learning JavaScript Design Patterns from Addy Osmani (O'REILLY)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/):
