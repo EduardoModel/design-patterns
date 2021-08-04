@@ -7,4 +7,4 @@ For a better understanding of this patter I highly recomment this [video](https:
 
 To run the example just type `yarn mediator` or `npm run mediator`;
 
-To see the code just click [here](/creational/mediator/example.js);
+To see the code just click [here](/behavioral/mediator/example.js);

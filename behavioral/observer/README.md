@@ -12,4 +12,4 @@ Another way to see this pattern is to compare it to a chat application with sock
 
 To run the example just type `yarn observer` or `npm run observer`;
 
-To see the code just click [here](/creational/observer/example.js);
+To see the code just click [here](/behavioral/observer/example.js);
