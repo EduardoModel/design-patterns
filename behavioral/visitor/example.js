@@ -59,6 +59,7 @@ const customers = [];
 const sellers = [];
 const products = [];
 
+// Populate them with the data generated from the faker library
 for (let i = 0; i < 3; i++) {
   const customerFirstName = fakerName.firstName();
   const customerLastName = fakerName.lastName();
