@@ -13,7 +13,8 @@
     "builder": "node creational/builder/example.js",
     "observer": "node behavioral/observer/example.js",
     "mediator": "node behavioral/mediator/example.js",
-    "iterator": "node behavioral/iterator/example.js"
+    "iterator": "node behavioral/iterator/example.js",
+    "visitor": "node behavioral/visitor/example.js"
   },
   "devDependencies": {
     "eslint": "^7.13.0",
