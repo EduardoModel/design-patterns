@@ -15,7 +15,8 @@
     "mediator": "node behavioral/mediator/example.js",
     "iterator": "node behavioral/iterator/example.js",
     "visitor": "node behavioral/visitor/example.js",
-    "decorator": "node structural/decorator/example.js"
+    "decorator": "node structural/decorator/example.js",
+    "facade": "node structural/facade/example.js"
   },
   "devDependencies": {
     "eslint": "^7.13.0",
