@@ -17,7 +17,8 @@
     "visitor": "node behavioral/visitor/example.js",
     "decorator": "node structural/decorator/example.js",
     "facade": "node structural/facade/example.js",
-    "adapter": "node structural/adapter/example.js"
+    "adapter": "node structural/adapter/example.js",
+    "proxy": "node structural/proxy/example.js"
   },
   "devDependencies": {
     "eslint": "^7.13.0",
