@@ -7,7 +7,7 @@ One of the big challenges of this pattern is to keep track of outdated values in
 A very good example is a credit card, because in the end it is a proxy for a bank account that contains money that can be used to pay services and goods just like cash does;
 The benefit in this case is the security because a shop owner that recieves the payments virtualy doesn't have the concerns of loosing his profit due security issues;
 
-This pattern is very similar to the [Module Pattern](/behavioral/module) in the aspect to restrict access to a given resource; The only difference is that by the Module Pattern was a value and with the Proxy Pattern is with a class;
+This pattern is very similar to the [Module Pattern](/creational/module) in the aspect to restrict access to a given resource; The only difference is that by the Module Pattern was a value and with the Proxy Pattern is with a class;
 
 Notes: The class and the proxy should implement the same methods;
 
